@@ -24,8 +24,8 @@ body > div > section > footer {
   height: 50px;
 }
 
-body > div > section > section,
-body > div > section > footer {
+body > div > section,
+body > div > footer {
   width: 100%;
   padding: 0 13%;
 }
